@@ -27,3 +27,4 @@ explainability, and the accuracy of the models.
 4. We would subsequently dive deeper into why and how price changes impact churn.
 5. Last but not least, the model would allow us to size the business impact of the client’s
 proposed discounting strategy. 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------

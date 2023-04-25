@@ -12,7 +12,7 @@ Data needed:
 
 1. Customer data - which should include characteristics of each client, for example,
 industry, historical electricity consumption, date joined as customer etc.
-2. Churn data - which should indicate if customer has churned
+2. Churn data - which should indicate if customer has churned.
 3. Historical price data – which should indicate the prices the client charges to each
 customer for both electricity and gas at granular time intervals.
 

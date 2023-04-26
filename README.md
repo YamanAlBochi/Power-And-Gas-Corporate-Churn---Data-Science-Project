@@ -2,13 +2,16 @@
 A major gas and electricity utility that supplies to corporate, SME (Small &amp; Medium Enterprise), and residential customers. The power-liberalization of the energy market in Europe has led to significant customer churn, especially in the SME segment. They have partnered with us to help diagnose the source of churning SME customers.
 
 
+
+
+
 # Task 1 - Business Understading and Hypothesis Framing: 
 
 - In order to test the hypothesis of whether churn is driven by the customers’ price sensitivity, we
 would need to model churn probabilities of customers, and derive the effect of prices on churn
 rates. We would need the following data to be able to build the models.
 
-Data needed:
+- Data needed:
 
 1. Customer data - which should include characteristics of each client, for example,
 industry, historical electricity consumption, date joined as customer etc.
@@ -16,7 +19,7 @@ industry, historical electricity consumption, date joined as customer etc.
 3. Historical price data – which should indicate the prices the client charges to each
 customer for both electricity and gas at granular time intervals.
 
-Once we have the data, the work plan would be:
+- Once we have the data, the work plan would be:
 
 1. We would need to define what price sensitivity is and calculate it.
 2. We would need to engineer features based on the data that we obtain, and build a

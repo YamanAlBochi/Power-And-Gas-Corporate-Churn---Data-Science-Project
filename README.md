@@ -28,3 +28,6 @@ explainability, and the accuracy of the models.
 5. Last but not least, the model would allow us to size the business impact of the client’s
 proposed discounting strategy.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Task 2 - Exploratory Data Analysis:
+

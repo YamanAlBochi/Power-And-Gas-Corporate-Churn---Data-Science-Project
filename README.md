@@ -38,7 +38,7 @@ Sub-Task 1:
 I Perform some exploratory data analysis. Check into the data types, data statistics, specific parameters, and variable distributions. This first subtask is for us to gain a holistic understanding of the dataset.
 
 Sub-Task 2:
-We Verify the hypothesis of price sensitivity being to some extent correlated with churn. It is up to us to define price sensitivity and calculate it.
+We Verify the hypothesis of price sensitivity being to some extent correlated with churn. It is up to us to define price sensitivity and calculate it..
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------

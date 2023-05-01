@@ -11,7 +11,7 @@ A major gas and electricity utility that supplies to corporate, SME (Small &amp;
 would need to model churn probabilities of customers, and derive the effect of prices on churn
 rates. We would need the following data to be able to build the models.
 
-- Data needed:
+- The Data needed:
 
 1. Customer data - which should include characteristics of each client, for example,
 industry, historical electricity consumption, date joined as customer etc.

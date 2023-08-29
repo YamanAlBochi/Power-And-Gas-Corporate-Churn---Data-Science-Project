@@ -14,7 +14,7 @@ rates. We would need the following data to be able to build the models.
 - The Data needed:
 
 1. Customer data - which should include characteristics of each client, for example,
-industry, historical electricity consumption, date joined as customer etc.
+industry, historical electricity consumption, date joined as customer and etc.
 2. Churn data - which should indicate if customer has churned.
 3. Historical price data – which should indicate the prices the client charges to each
 customer for both electricity and gas at granular time intervals.
@@ -46,8 +46,8 @@ proposed discounting strategy.
 
 - Our team now has a good understanding of the data and feels confident to use the data to further understand the business problem. The team now needs to brainstorm and build out features to uncover signals in the data that could inform the churn model. Feature engineering, is one of the keys to unlocking predictive insight through mathematical modeling. Based on the data that is available and was cleaned, we'll identify what we think could be drivers of churn for our client and build those features to later use in your model.
 
-- First we'll focus on building on top of the feature that your colleague has already investigated: “the difference between off-peak prices in December and January the preceding year”. Once we have a set of features, we'll train a Random Forest classifier to predict customer churn and evaluate the performance of the model with suitable evaluation metrics.
+- First we'll focus on building on top of the feature that our colleague has already investigated: “the difference between off-peak prices in December and January the preceding year”. Once we have a set of features, we'll train a Random Forest classifier to predict customer churn and evaluate the performance of the model with suitable evaluation metrics.
 
-- Recall that the hypotheses under consideration is that churn is driven by the customers’ price sensitivities and that it would be possible to predict customers likely to churn using a predictive model. If we’re eager to go the extra mile for the client, when you have a trained predictive model, remember to investigate the client’s proposed discounting strategy, with the head of the SME division suggesting that offering customers at high propensity to churn a 20% discount might be effective. Building our models and test them while keeping in mind you would need data to prove/disprove the hypotheses, as well as to test the effect of a 20% discount on customers at high propensity to churn
+- Recall that the hypotheses under consideration is that churn is driven by the customers’ price sensitivities and that it would be possible to predict customers likely to churn using a predictive model. If we’re eager to go the extra mile for the client, when you have a trained predictive model, remember to investigate the client’s proposed discounting strategy, with the head of the SME division suggesting that offering customers at high propensity to churn a 20% discount might be effective. Building our models and test them while keeping in mind you would need data to prove/disprove the hypotheses, as well as to test the effect of a 20% discount on customers at high propensity to churn.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
